@@ -1,9 +1,0 @@
-D:\App\projects\private\my\csharp\asp\core\api\dotnetcore-kafka\dotnetcore-kafka\Commom\bin\Debug\netcoreapp3.1\Commom.deps.json
-D:\App\projects\private\my\csharp\asp\core\api\dotnetcore-kafka\dotnetcore-kafka\Commom\bin\Debug\netcoreapp3.1\Commom.dll
-D:\App\projects\private\my\csharp\asp\core\api\dotnetcore-kafka\dotnetcore-kafka\Commom\bin\Debug\netcoreapp3.1\Commom.pdb
-D:\App\projects\private\my\csharp\asp\core\api\dotnetcore-kafka\dotnetcore-kafka\Commom\obj\Debug\netcoreapp3.1\Commom.csprojAssemblyReference.cache
-D:\App\projects\private\my\csharp\asp\core\api\dotnetcore-kafka\dotnetcore-kafka\Commom\obj\Debug\netcoreapp3.1\Commom.csproj.CoreCompileInputs.cache
-D:\App\projects\private\my\csharp\asp\core\api\dotnetcore-kafka\dotnetcore-kafka\Commom\obj\Debug\netcoreapp3.1\Commom.AssemblyInfoInputs.cache
-D:\App\projects\private\my\csharp\asp\core\api\dotnetcore-kafka\dotnetcore-kafka\Commom\obj\Debug\netcoreapp3.1\Commom.AssemblyInfo.cs
-D:\App\projects\private\my\csharp\asp\core\api\dotnetcore-kafka\dotnetcore-kafka\Commom\obj\Debug\netcoreapp3.1\Commom.dll
-D:\App\projects\private\my\csharp\asp\core\api\dotnetcore-kafka\dotnetcore-kafka\Commom\obj\Debug\netcoreapp3.1\Commom.pdb
